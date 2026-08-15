@@ -8,8 +8,6 @@ I have practical experience with tools such as **Wireshark, Nmap, Burp Suite, Ni
 
 I'm currently focused on developing my skills toward roles such as **SOC Analyst, Cybersecurity Analyst, Information Security Analyst, and Junior Security Engineer**.
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <details>
   <summary>More about me</summary>
 
@@ -26,9 +24,7 @@ I'm currently focused on developing my skills toward roles such as **SOC Analyst
 ---
 
 <h2 id="knowledge_skills">🧠 Knowledge & Skills</h2>
-<br>
-
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+<br><div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left">
 
 ### 🔐 Cybersecurity
@@ -93,7 +89,7 @@ I'm currently focused on developing my skills toward roles such as **SOC Analyst
 
 ---
 
-<h2 id="projects">🚀 Featured Projects</h2>
+<h2 id="projects">Projects</h2>
 
 | **Project**                      | **Description**                                                             | **Technologies**   |
 | -------------------------------- | --------------------------------------------------------------------------- | ------------------ |
@@ -102,47 +98,19 @@ I'm currently focused on developing my skills toward roles such as **SOC Analyst
 | **[Project Name](PROJECT_LINK)** | Short description of your cybersecurity or SOC-focused application.         | Python, REST API   |
 | **[Project Name](PROJECT_LINK)** | Short description of the project and what you learned from building it.     | Wireshark, Python  |
 
-> 💡 Replace `PROJECT_LINK` with the URL of your GitHub repository.
-
----
-
-<h2 id="mini-projects">🛠️ Mini Projects & Security Tools</h2>
-
-| **Project / Tool**             | **Description**                                               | **Link**                         |
-| ------------------------------ | ------------------------------------------------------------- | -------------------------------- |
-| **Network Scanner**            | Network/host discovery and basic port scanning tool.          | **[View Project](PROJECT_LINK)** |
-| **Packet Analyzer**            | Network traffic analysis and packet inspection project.       | **[View Project](PROJECT_LINK)** |
-| **Security Automation Script** | Python-based automation for a repetitive security task.       | **[View Project](PROJECT_LINK)** |
-| **Web Security Tool**          | Small tool for learning/testing web security concepts.        | **[View Project](PROJECT_LINK)** |
-| **SOC Mini Project**           | Security monitoring, detection, or incident-analysis project. | **[View Project](PROJECT_LINK)** |
-
 ---
 
 <h2 id="writeups">🧪 Security Labs & Writeups</h2>
 
 I document my hands-on learning from **TryHackMe, Hack The Box, CTFs, and cybersecurity labs**.
 
-### 🎯 TryHackMe
+### Writeups
 
-| **Room**      | **Category** | **Topics**           | **Writeup**                      |
+| **Writeups**      | **Category** | **Topics**           | **Writeup**                      |
 | ------------- | ------------ | -------------------- | -------------------------------- |
 | **Room Name** | Beginner     | Networking / Linux   | **[Read Writeup](WRITEUP_LINK)** |
 | **Room Name** | Web Security | Web / Enumeration    | **[Read Writeup](WRITEUP_LINK)** |
 | **Room Name** | SOC          | Detection / Analysis | **[Read Writeup](WRITEUP_LINK)** |
-
-### 🟩 Hack The Box
-
-| **Machine / Lab** | **Difficulty** | **Topics**                 | **Writeup**                      |
-| ----------------- | -------------- | -------------------------- | -------------------------------- |
-| **Machine Name**  | Easy           | Enumeration / Linux        | **[Read Writeup](WRITEUP_LINK)** |
-| **Machine Name**  | Medium         | Web / Privilege Escalation | **[Read Writeup](WRITEUP_LINK)** |
-
-### 🏆 CTFs
-
-| **CTF**      | **Category** | **Topics**               | **Writeup**                      |
-| ------------ | ------------ | ------------------------ | -------------------------------- |
-| **CTF Name** | CTF          | Web / Crypto / Forensics | **[Read Writeup](WRITEUP_LINK)** |
-| **CTF Name** | CTF          | Network / Linux          | **[Read Writeup](WRITEUP_LINK)** |
 
 ---
 
@@ -157,15 +125,6 @@ I document my hands-on learning from **TryHackMe, Hack The Box, CTFs, and cybers
 * Linux & Windows Security
 * Security Automation with Python
 * CTFs and hands-on security labs
-
----
-
-<h2 id="education">🎓 Education</h2>
-
-**Bachelor of Technology (B.Tech) — Computer Science Engineering**
-Manipal Academy of Higher Education
-**2022 – 2026 | Dubai, UAE**
-
 ---
 
 <h2 id="contact">📫 Connect With Me</h2>
