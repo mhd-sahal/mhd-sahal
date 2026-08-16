@@ -102,15 +102,14 @@ I'm currently focused on developing my skills toward roles such as **SOC Analyst
 
 <h2 id="writeups">🧪 Security Labs & Writeups</h2>
 
-I document my hands-on learning from **TryHackMe, Hack The Box, CTFs, and cybersecurity labs**.
+I document my hands-on cybersecurity learning through **Hack The Box, TryHackMe, CTFs, Malware Traffic Analysis, and other security labs**.
 
 ### Writeups
 
-| **Writeups**      | **Category** | **Topics**           | **Writeup**                      |
-| ------------- | ------------ | -------------------- | -------------------------------- |
-| **Room Name** | Beginner     | Networking / Linux   | **[Read Writeup](WRITEUP_LINK)** |
-| **Room Name** | Web Security | Web / Enumeration    | **[Read Writeup](WRITEUP_LINK)** |
-| **Room Name** | SOC          | Detection / Analysis | **[Read Writeup](WRITEUP_LINK)** |
+| **Platform / Source** | **Writeups** |
+| --------------------- | ------------ |
+| **Hack The Box** |   **[View Writeups](https://github.com/mhd-sahal/Cybersecurity-Writeups/tree/main/HTB)** |
+
 
 ---
 
