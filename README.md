@@ -93,10 +93,7 @@ I'm currently focused on developing my skills toward roles such as **SOC Analyst
 
 | **Project**                      | **Description**                                                             | **Technologies**   |
 | -------------------------------- | --------------------------------------------------------------------------- | ------------------ |
-| **[Project Name](PROJECT_LINK)** | Short description of the project and the security problem it solves.        | Python, Flask, SQL |
-| **[Project Name](PROJECT_LINK)** | Short description of the project, key features, and security functionality. | Python, Networking |
-| **[Project Name](PROJECT_LINK)** | Short description of your cybersecurity or SOC-focused application.         | Python, REST API   |
-| **[Project Name](PROJECT_LINK)** | Short description of the project and what you learned from building it.     | Wireshark, Python  |
+| **[Port Scanner](https://github.com/mhd-sahal/Port-Scanner)** | Python-based Port Scanner using Scapy.       | Python, Flask, SQL |
 
 ---
 
