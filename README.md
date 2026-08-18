@@ -93,7 +93,7 @@ I'm currently focused on developing my skills toward roles such as **SOC Analyst
 
 | **Project**                      | **Description**                                                             | **Technologies**   |
 | -------------------------------- | --------------------------------------------------------------------------- | ------------------ |
-| **[Port Scanner](https://github.com/mhd-sahal/Port-Scanner)** | Python-based Port Scanner using Scapy.       | Python, Flask, SQL |
+| **[Port Scanner](https://github.com/mhd-sahal/Port-Scanner)** | Python-based Port Scanner using Scapy.       | Python, Scapy, TCP/IP |
 
 ---
 
