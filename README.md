@@ -1,4 +1,4 @@
-# Hi there 👋
+# MOHAMMED SAHAL
 
 I'm **Mohammed Sahal**, a Computer Science Engineering graduate specializing in **Cybersecurity**.
 
