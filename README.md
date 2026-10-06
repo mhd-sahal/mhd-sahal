@@ -106,6 +106,7 @@ I document my hands-on cybersecurity learning through **Hack The Box, TryHackMe,
 | **Platform / Source** | **Writeups** |
 | --------------------- | ------------ |
 | **Hack The Box** |   **[View Writeups](https://github.com/mhd-sahal/Cybersecurity-Writeups/tree/main/HTB)** |
+| **Letsdefend** |   **[View Writeups](https://github.com/mhd-sahal/Cybersecurity-Writeups/tree/main/LetsDefend)** |
 
 
 ---
