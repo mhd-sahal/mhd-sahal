@@ -93,6 +93,7 @@ I'm currently focused on developing my skills toward roles such as **SOC Analyst
 
 | **Project**                      | **Description**                                                             | **Technologies**   |
 | -------------------------------- | --------------------------------------------------------------------------- | ------------------ |
+| **[Wazuh SOC Home Lab](https://github.com/mhd-sahal/wazuh-lab)** | Hands-on SOC lab for endpoint monitoring, FIM, custom detection, and Active Response.      |Wazuh, VMware, Ubuntu, Windows |
 | **[Port Scanner](https://github.com/mhd-sahal/Port-Scanner)** | Python-based Port Scanner using Scapy.       | Python, Scapy, TCP/IP |
 
 ---
