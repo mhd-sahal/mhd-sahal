@@ -94,8 +94,8 @@ I'm currently focused on developing my skills toward roles such as **SOC Analyst
 | **Project**                      | **Description**                                                             | **Technologies**   |
 | -------------------------------- | --------------------------------------------------------------------------- | ------------------ |
 | **[Wazuh SOC Home Lab](https://github.com/mhd-sahal/wazuh-lab)** | Hands-on SOC lab for endpoint monitoring, FIM, custom detection, and Active Response.      |Wazuh, VMware, Ubuntu, Windows |
+| **[Packet Lantern](https://github.com/mhd-sahal/packet-lantern)** | Browser-based Wireshark CSV triage tool with seven explainable detection rules and adjustable thresholds. Runs fully client-side, so no packet data is uploaded.       | HTML, CSS, JavaScript, Wireshark |
 | **[Port Scanner](https://github.com/mhd-sahal/Port-Scanner)** | Python-based Port Scanner using Scapy.       | Python, Scapy, TCP/IP |
-
 ---
 
 <h2 id="writeups">🧪 Security Labs & Writeups</h2>
